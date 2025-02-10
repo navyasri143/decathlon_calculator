@@ -53,13 +53,16 @@ Smooth Animations: Cards and forms transition elegantly.
 ## Screenshots
 
 ### 1. Home Screen
-![Home Screen](Screenshot 2025-02-09 225346.png)
+![Home Screen](ss1.jpg)
 
 ### 2. Adding an Athlete
-![Add Athlete Form](Screenshot 2025-02-09 230003.png)
+![Add Athlete Form](ss2.png)
 
 ### 3. Score Card
-![Score Card]decathlon2.png)
+![Score Card](ss3.png)
+
+### 4. Score Card
+![Score Card](ss4.png)
 
 ## Demo Video
 
