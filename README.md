@@ -83,4 +83,3 @@ Performance Analytics: Provide insights and trends for athletes over times.
 
 ## Contact
 Email: prakash.komati@sasi.ac.in
-LinkedIn: Your LinkedIn Profile
