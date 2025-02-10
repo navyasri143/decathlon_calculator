@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Center content globally */
+.container {
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  text-align: center;
+  color: #333;
+}
+
+/* Buttons - Global Style */
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive Typography */
+@media (max-width: 768px) {
+  h1 { font-size: 24px; }
+  h2 { font-size: 22px; }
+  button { padding: 10px; }
+}
